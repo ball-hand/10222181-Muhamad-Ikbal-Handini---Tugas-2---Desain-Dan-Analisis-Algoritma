@@ -1,1 +1,1 @@
-# 10222181-Muhamad-Ikbal-Handini---Tugas-2---Desain-Dan-Analisis-Algoritma
+# 10222181-MuhamadIkbalHandini-Tugas2-DAA
