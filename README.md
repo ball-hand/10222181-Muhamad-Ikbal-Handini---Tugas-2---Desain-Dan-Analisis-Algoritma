@@ -1,5 +1,5 @@
 # 10222181-MuhamadIkbalHandini-Tugas2-DAA
-```markdown
+
 ## Deskripsi
 Proyek ini merupakan tugas dengan beberapa skrip yang menggunakan Node.js. Saat ini, proyek ini menyertakan dua skrip:
 
